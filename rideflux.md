@@ -10,6 +10,7 @@
 10. write code sum 1 ~ n when given n
 
 - how to know our company? -> on facebook
+- are you volunteer other company? -> no
 - what is the contribution when you attend? -> first autonomous tech, rl, abstract planning
 - what is the best project ever? -> 2015 project
   - what kind of experience of hard thing when you process project? and how to deal it? -> functional distribution, time schedule
